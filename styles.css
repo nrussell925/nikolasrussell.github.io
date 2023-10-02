@@ -2774,7 +2774,7 @@ textarea.form-control-lg {
   --bs-btn-font-weight: 400;
   --bs-btn-line-height: 1.5;
   --bs-btn-color: #212529;
-  --bs-btn-bg: transparent;
+  --bs-btn-bg: black;
   --bs-btn-border-width: 0.125rem;
   --bs-btn-border-color: transparent;
   --bs-btn-border-radius: 0.5rem;
